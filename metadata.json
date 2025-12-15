@@ -1,0 +1,5 @@
+{
+  "name": "AusSuburbia Data Explorer",
+  "description": "A specialized tool to retrieve, visualize, and export Australian suburb data including geolocation, LGA, and neighboring regions using Gemini AI.",
+  "requestFramePermissions": []
+}
